@@ -8,4 +8,4 @@
 ## ES6
 - [ES6声明](https://github.com/littlecanace/Notes/wiki/es6%E5%A3%B0%E6%98%8E)
 ## [正则表达式](https://github.com/littlecanace/Notes/wiki/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F)
-## [js面向对象编程]()
+## [js面向对象编程](https://github.com/littlecanace/Notes/wiki/js%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B)
