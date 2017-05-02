@@ -5,4 +5,5 @@
 ## sublime text3
 - [好用的插件汇总](https://github.com/littlecanace/Notes/wiki/%E5%A5%BD%E7%94%A8%E7%9A%84%E6%8F%92%E4%BB%B6%E6%B1%87%E6%80%BB)
 - [快捷键大全](https://github.com/littlecanace/Notes/wiki/%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8)
-## [ES6]()
+## ES6
+- [ES6声明](https://github.com/littlecanace/Notes/wiki/es6%E5%A3%B0%E6%98%8E)
